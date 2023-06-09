@@ -1,0 +1,24 @@
+.head{
+    color: red;
+    text-transform: capitalize;
+}
+.first{
+    color: brown;
+    font-style: oblique;
+    font-size: 1.5em;
+}
+.hair{
+    width: 250px;
+}
+.bonus{
+    color: gold;
+    text-transform: capitalize;
+}
+.prof{
+    color: orangered;
+    text-transform: capitalize;
+    font-size: 1.2em;
+}
+.mentor{
+    text-transform: capitalize;
+}
