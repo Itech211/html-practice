@@ -27,7 +27,7 @@ body{
 
 }
 .clock span{
-    width: 100px;
+    width: 70px;
     height: 80px;
     background-color: slateblue;
     opacity: .8;
