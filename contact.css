@@ -93,19 +93,19 @@ h2.bold{
 }
 h4.address{
   letter-spacing: 2px;
-  margin:15px;
+  margin:px;
   text-transform: uppercase;
 
 }
 p.top{
-  margin: 15px;
+  margin: 0px;
   letter-spacing: 2px;
   text-transform:capitalize;
   text-decoration: solid;
   display: flex;
 }
 p.top1{
-  margin: 15px;
+  margin: 0px;
   letter-spacing: 2px;
   text-decoration: solid;
 }
