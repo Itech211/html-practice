@@ -50,13 +50,13 @@ body{
     color: antiquewhite;    
 }
 .button input[type = 'button']:hover{
-    background-color: black;
+    background-color: blue;
     color:beige;
 }
 @media screen and (max-width: 600px) {
     .calculator{
         height: 450px;
-        width: 310px;
+        width: 320px;
         background-color: red;
         position: absolute;
         border: 5px solid black;
@@ -90,7 +90,7 @@ body{
     cursor: pointer;
     font-size: 18px;
     transition: 0.5s;
-    background-color: gold;
+    background-color: black;
     border-radius: 6px;
     color: antiquewhite;    
 }
