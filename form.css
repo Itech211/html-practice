@@ -7,12 +7,16 @@ body{
     height: 100vh;
   }
   .login{
-    background-color: white;
+    background-color: whitesmoke;
     color: black;
     border-radius: 12px;
     padding: 30px;
     max-width: 400px;
     margin: auto;
+  }
+  .tex{
+    width: 250px;
+    height: 100px;
   }
   .red{
     color: black;
