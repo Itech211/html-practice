@@ -14,6 +14,15 @@ body{
     max-width: 400px;
     margin: auto;
   }
+  .red{
+    color: black;
+    background-color: aqua;
+    font-size: large;
+    text-transform: capitalize;
+  }
+  .hello{
+    text-transform: capitalize;
+  }
   .logs{
     letter-spacing: 1px;
     text-transform: capitalize;
